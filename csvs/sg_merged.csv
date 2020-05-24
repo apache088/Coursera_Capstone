@@ -1,0 +1,29 @@
+District,Latitude,Longitude,ClusterLabel,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+"1 - Raffles Place, Cecil, Marina Square, People's Park",1.2851298982500001,103.850264925,0,Hotel,Waterfront,Seafood Restaurant,Cocktail Bar,Event Space,Japanese Restaurant,Plaza,Concert Hall,Spanish Restaurant,Performing Arts Venue
+"2 - Anson, Tanjong Pagar",1.274525775,103.84392295,0,Japanese Restaurant,Coffee Shop,Hotel,Café,Food Court,Cocktail Bar,Bakery,Tapas Restaurant,Spanish Restaurant,Gym / Fitness Center
+"3 - Bukit Merah, Queenstown, Tiong Bahru",1.285460623,103.82070523333331,2,Chinese Restaurant,Café,Food Court,Park,Bakery,Coffee Shop,Noodle House,Hainan Restaurant,Indian Restaurant,Hotel
+"4 - Telok Blangah, Harbourfront",1.2699263815000001,103.81369670000001,2,Chinese Restaurant,Scenic Lookout,Trail,Café,Food Court,Multiplex,Park,Clothing Store,Pool,Japanese Restaurant
+"5 - Pasir Panjang, West Coast Terrace, Clementi",1.310088417,103.76794093333336,3,Coffee Shop,Food Court,Café,Bakery,Chinese Restaurant,Asian Restaurant,Indian Restaurant,Park,Dessert Shop,Sandwich Place
+"6 - High Street, Beach Road",1.29506743,103.8543032,0,Hotel,Shopping Mall,Cocktail Bar,Event Space,Italian Restaurant,Café,Japanese Restaurant,Coffee Shop,Bakery,Beer Bar
+"7 - Middle Road, Golden Mile",1.3009612154999999,103.85919085,0,Hotel,Café,Thai Restaurant,Chinese Restaurant,Cocktail Bar,Indian Restaurant,Italian Restaurant,Vegetarian / Vegan Restaurant,Shopping Mall,Event Space
+"8 - Little India, Farrer Park, Jalan Besar, Lavender Street",1.3117956430000002,103.85700395,2,Indian Restaurant,Chinese Restaurant,Café,Bakery,Thai Restaurant,Coffee Shop,Hotel,Restaurant,Vietnamese Restaurant,Italian Restaurant
+"9 - Orchard, Cairnhill, River Valley",1.3008096076666666,103.83942953333332,0,Hotel,Shopping Mall,Japanese Restaurant,Clothing Store,Bakery,Yoga Studio,Wine Bar,Café,Cosmetics Shop,Coffee Shop
+"10 - Ardmore, Bukit Timah, Holland Road, Tanglin",1.3168576884999998,103.80230765,2,Bakery,Chinese Restaurant,Café,Ice Cream Shop,Food Court,Bar,Supermarket,Asian Restaurant,Thai Restaurant,Noodle House
+"11 - Watten Estate, Novena, Thomson",1.3430296536666664,103.82742453333331,2,Café,Chinese Restaurant,Flower Shop,Trail,Spa,Bakery,Thai Restaurant,Ice Cream Shop,Dessert Shop,Supermarket
+"12 - Balestier, Toa Payoh, Serangoon",1.3342948313333334,103.8555476,2,Chinese Restaurant,Food Court,Hotel,Asian Restaurant,Noodle House,Dessert Shop,Coffee Shop,Bakery,Seafood Restaurant,Supermarket
+"13 - Macpherson, Braddell",1.3364607945,103.859661,2,Chinese Restaurant,Coffee Shop,Asian Restaurant,Bakery,Convenience Store,Noodle House,Snack Place,Market,Seafood Restaurant,Gym
+"14 - Geylang, Eunos",1.31570473,103.89649385,2,Chinese Restaurant,Asian Restaurant,Food Court,Noodle House,Vegetarian / Vegan Restaurant,Multiplex,Japanese Restaurant,Italian Restaurant,Indian Restaurant,Ice Cream Shop
+"15 - Katong, Joo Chiat, Amber Road",1.3070236136666669,103.90170853333336,2,Chinese Restaurant,Asian Restaurant,Indian Restaurant,Italian Restaurant,Hotel,Coffee Shop,Noodle House,Bakery,Multiplex,Japanese Restaurant
+"16 - Bedok, Upper East Coast, Eastwood, Kew Drive",1.3199079782499998,103.9478324,3,Food Court,Coffee Shop,Noodle House,Asian Restaurant,Chinese Restaurant,Malay Restaurant,Café,Dessert Shop,Beach,Playground
+"17 - Loyang, Changi",1.371392835,103.96690229999999,3,Coffee Shop,Supermarket,Café,Snack Place,Bus Station,Asian Restaurant,Thai Restaurant,Fast Food Restaurant,Chinese Restaurant,Resort
+"18 - Simei, Tampines, Pasir Ris",1.3588738739999997,103.95167150000002,3,Coffee Shop,Bakery,Café,Gym,Supermarket,Thai Restaurant,Fried Chicken Joint,Japanese Restaurant,Gym / Fitness Center,Clothing Store
+"19 - Serangoon Garden, Hougang, Punggol",1.3805282909999999,103.88292373333336,3,Coffee Shop,Food Court,Bus Station,Fast Food Restaurant,Asian Restaurant,Café,Gym,Basketball Court,Supermarket,Sandwich Place
+"20 - Bishan, Ang Mo Kio",1.3591416845,103.8436171,2,Chinese Restaurant,Coffee Shop,Food Court,Café,Japanese Restaurant,Thai Restaurant,Ice Cream Shop,Fast Food Restaurant,Supermarket,Spa
+"21 - Upper Bukit Timah, Clementi Park, Ulu Pandan",1.3425556833333332,103.7666705,2,Food Court,Chinese Restaurant,Korean Restaurant,Café,Thai Restaurant,Asian Restaurant,Shopping Mall,Coffee Shop,Bus Station,Hainan Restaurant
+"22 - Jurong, Tuas",1.3314635245000002,103.70140995,3,Japanese Restaurant,Asian Restaurant,Fast Food Restaurant,Café,Chinese Restaurant,Food Court,Coffee Shop,Dessert Shop,Exhibit,Shopping Mall
+"23 - Hillview, Dairy Farm, Bukit Panjang, Choa Chu Kang",1.37813025875,103.766004325,3,Coffee Shop,Food Court,Fast Food Restaurant,Supermarket,Park,Asian Restaurant,Shopping Mall,Sushi Restaurant,Noodle House,Bus Station
+"24 - Lim Chu Kang, Tengah",1.3958958469999998,103.7221268,1,Farm,Garden Center,Spa,Café,Farmers Market,Chinese Restaurant,Flower Shop,Zoo Exhibit,Food,Food Court
+"25 - Kranji, Woodgrove, Woodlands",1.4264472926666667,103.76213753333332,3,Racetrack,Food Court,Grocery Store,Coffee Shop,Bakery,Gaming Cafe,Monument / Landmark,Food,Go Kart Track,Hainan Restaurant
+"26 - Upper Thomson, Springleaf",1.377477654,103.828889,2,Food Court,Chinese Restaurant,Bus Stop,Coffee Shop,Park,Seafood Restaurant,Asian Restaurant,Indian Restaurant,Shanghai Restaurant,Soup Place
+"27 - Yishun, Sembawang",1.4332029605,103.82848790000001,3,Coffee Shop,Chinese Restaurant,Indian Restaurant,Asian Restaurant,Fried Chicken Joint,Thai Restaurant,Café,Hainan Restaurant,Sushi Restaurant,Vegetarian / Vegan Restaurant
+28 - Seletar Road,1.3840428619999998,103.868238,3,Food Court,Asian Restaurant,Coffee Shop,Fast Food Restaurant,Café,Supermarket,Dessert Shop,American Restaurant,Shopping Mall,Sandwich Place
